@@ -1,0 +1,98 @@
+.header {
+    position: sticky;
+}
+.container {
+  display: flex;
+  background-color: black;
+  position: absolute;
+  width: 100vw;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+}
+.company {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 250;
+  font-size: 20px;
+  line-height: 45px;
+  color: #ffffff;
+  position: absolute;
+  width: 160px;
+  height: 30px;
+  left: 15px;
+  top: 29px;
+}
+.nav {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  padding: 2px;
+}
+.topnav {
+  position: relative;
+  left: 640px;
+  top: 28px;
+}
+.heading {
+  position: absolute;
+
+  left: 20px;
+  top: 100px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 77px;
+}
+.content {
+  position: absolute;
+  width: 36vw;
+  left: 20px;
+  top: 200px;
+}
+.sec1 {
+  position: relative;
+}
+.img {
+  position: absolute;
+  width: 50vw;
+  height: 60vh;
+  left: 518px;
+  top: 140px;
+  background: #d9d9d9;
+}
+.h3 {
+  text-align: center;
+  position: absolute;
+  top: 150px;
+  left: 150px;
+}
+.flex-container {
+  position: relative;
+  display: flex;
+  top: 670px;
+  flex-wrap: wrap;
+}
+
+.a,
+.b,
+.c {
+    position: relative;
+    text-align: center;
+    background: #d9d9d9;
+    
+    width: 300px;
+    height: 325.57px;
+    margin: 18px;
+    left: 30px;
+    top: 80px;
+}
+.add{
+    position: relative;
+    top: 125px;
+}
